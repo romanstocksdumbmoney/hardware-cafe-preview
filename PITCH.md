@@ -1,7 +1,7 @@
 # PITCH — Hardware Café (Warrenton)
 
 ## Status
-**READY** batch1505 2026-09-23
+**SENT** 2026-09-23 ~3:12 PM ET
 
 ## Target
 - **Name:** Hardware Café
@@ -23,3 +23,10 @@
 - Toast: https://order.hardwarecafenc.com/order/hardware-cafe/hardware-cafe/menu
 - Facebook: https://www.facebook.com/HardwareCafeWarrenton/
 - Maps: https://www.google.com/maps/search/?api=1&query=Hardware+Cafe+106+S+Main+St+Warrenton+NC+27589
+
+## Send
+- **From:** romansites365@gmail.com
+- **Subject:** Hardware Café (4.7★) — quick question
+- **message_id:** 1a0cfafbdba6318b
+- **thread_id:** 1a0cfafbdba6318b
+- **sent_et:** 2026-09-23 ~3:12 PM ET
